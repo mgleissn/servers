@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Name: MyString
+  Location: MyString
+  CPUcores: 1
+  Ram: 1
+  ip-address: MyString
+
+two:
+  Name: MyString
+  Location: MyString
+  CPUcores: 1
+  Ram: 1
+  ip-address: MyString
